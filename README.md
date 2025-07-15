@@ -9,11 +9,11 @@
 - GDG(Google Developer Groups) on Campus HUFS
   - 6th (2024.09 ~ 2025.07)
 - Hufs ICE (Information Communication Enginneering) advICE 학회
-  - 25기 백엔드 분과장 (2025.03 ~ )
+  - 25th 백엔드 분과장 (2025.03 ~ )
 - KT디지털인재장학생
   - 2025년도 선발 (2025.03 ~ )
 - AUSG (AWSKRUG University Student Group)
-  - 9기 (2025.07 ~ )
+  - 9th (2025.07 ~ )
 
 
 ### 🛠️ Technical Stack
