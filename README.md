@@ -2,7 +2,7 @@
 - Nickname : TaekyuKo
 - e-mail: taekueko714@hufs.ac.kr
 - 한국외국어대학교 정보통신공학과 21학번
-- Blog (Velog): https://velog.io/@taekyu_/posts
+- Blog (Velog): <a>https://velog.io/@taekyu_/posts<a target="_blank">
 
   
 ### 📜 Activities
