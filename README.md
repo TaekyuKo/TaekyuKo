@@ -19,11 +19,12 @@ Cloud & Infrastructure engineering student who likes building and running things
   - 9th (2025.07 ~ )
 
 ### 💼 Experience
+- **ESE Lab, HUFS** — Undergraduate Researcher / Cluster Administrator (Jan 2025 – Present)
+  - Operate the department's on-premises Kubernetes clusters serving GPU and VM services to students
 - **Wondermove Inc.** — Software Engineer Intern (Mar 2026 – Jun 2026)
   - Designed and developed the Security section of Skuber+ Client, now open-sourced as **[K-Lens](https://github.com/Wondermove-Inc/K-Lens)**:
   a unified Trivy + Kubescape scanning dashboard with an AI remediation advisor
-- **ESE Lab, HUFS** — Undergraduate Researcher / Cluster Administrator (Jan 2025 – Present)
-  - Operate the department's on-premises Kubernetes clusters serving GPU and VM services to students
+
 
 ### 📜 Certifications
 - **CKA — Certified Kubernetes Administrator** (Aug 2026, ID: LF-9apyeae1de)
