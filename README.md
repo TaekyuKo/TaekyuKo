@@ -28,11 +28,6 @@ Kubescape scanning dashboard with an AI remediation advisor
 ### 📜 Certifications
 - **CKA — Certified Kubernetes Administrator** (Aug 2026, ID: LF-9apyeae1de)
 
-### 🎤 Talks
-- "Rebuilding the Department Cluster" — **AUSG** 9th cohort *(AnsiK8s clusters)*
-- ["Building a Free Personal Server with Oracle Cloud"](https://www.youtube.com/watch?v=DdA0qwO-1dY) — **GDG on Campus HUFS** *(K8s cluster within OCI free-tier
-limits)*
-
 ### 🛠️ Technical Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?styles&logoColor=white)
