@@ -3,7 +3,7 @@
 Cloud & Infrastructure engineering student who likes building and running things on Kubernetes.
 
 ### 📫 Information
-- 🎓 Hankuk University of Foreign Studies (HUFS), Information & Communications Engineering (Class of 2027)
+- 🎓 Hankuk University of Foreign Studies (HUFS), Information & Communications Engineering
 - ✉️ taekueko714@hufs.ac.kr
 - ✍️ Blog: [velog.io/@taekyu_](https://velog.io/@taekyu_)
 - 💼 LinkedIn: [linkedin.com/in/taekyuko](https://www.linkedin.com/in/taekyuko)
