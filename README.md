@@ -12,7 +12,7 @@ Cloud & Infrastructure engineering student who likes building and running things
 - GDG (Google Developer Groups) on Campus HUFS
   - 6th (2024.09 ~ 2025.07)
 - HUFS ICE (Information & Communications Engineering) academic society "advICE"
-  - 25th Backend Division Lead (2025.03 ~ )
+  - 25th Backend Division Lead (2025.03 ~ 2025.12)
 - KT Digital Talent Scholar
   - Selected in 2025 (2025.03 ~ )
 - AUSG (AWSKRUG University Student Group)
