@@ -16,12 +16,12 @@ Cloud & Infrastructure engineering student who likes building and running things
 - KT Digital Talent Scholar
   - Selected in 2025 (2025.03 ~ )
 - AUSG (AWSKRUG University Student Group)
-  - 9th (2025.07 ~ )
+  - 9th Member, 10th Regulator (2025.07 ~ )
 
 ### 💼 Experience
-- **ESE Lab, HUFS** — Undergraduate Researcher / Cluster Administrator (Jan 2025 – Present)
+- **ESE Lab, HUFS** - Undergraduate Researcher / Cluster Administrator (Jan 2025 – Present)
   - Operate the department's on-premises Kubernetes clusters serving GPU and VM services to students
-- **Wondermove Inc.** — Software Engineer Intern (Mar 2026 – Jun 2026)
+- **Wondermove Inc.** - Software Engineer Intern (Mar 2026 – Jun 2026)
   - Designed and developed the Security section of Skuber+ Client, now open-sourced as **[K-Lens](https://github.com/Wondermove-Inc/K-Lens)**:
   a unified Trivy + Kubescape scanning dashboard with an AI remediation advisor
 
